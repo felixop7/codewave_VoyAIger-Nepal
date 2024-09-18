@@ -21,4 +21,4 @@ function TripPlace({trip}) {
   )
 }
 
-export default TripPlace
+export default TripPlacet
