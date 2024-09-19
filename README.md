@@ -1,6 +1,6 @@
 # voyAIger
 
-![voyAIger Logo](../public/logo.svg)
+![voyAIger Logo](/public/logo.svg)
 
 ## Overview
 
