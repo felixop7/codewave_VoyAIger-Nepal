@@ -1,22 +1,50 @@
-React + Vite
-This template offers a streamlined configuration to get started with React using Vite. It includes Hot Module Replacement (HMR) and a set of ESLint rules to ensure code quality and maintainability.
+voyAIger
+
+Overview
+
+Planning the perfect trip can often feel overwhelming, especially when juggling multiple factors—choosing the right destinations, managing time constraints, and staying within budget. Enter voyAIger, a web-based application designed to make travel planning effortless. With voyAIger, you can seamlessly plan your travel routes based on your budget, preferences, and time constraints. Whether you're looking to explore multiple destinations or optimize your journey for efficiency, voyAIger intelligently factors in your needs and offers personalized route suggestions.
+
+
+
+What Is Our App?
+voyAIger is a digital travel companion designed to enhance your travel experience by offering:
 
 Features
-React Integration: Set up to work seamlessly with React, allowing for a smooth development experience.
-Hot Module Replacement (HMR): Enabled to provide fast and efficient updates during development without needing to reload the entire application.
-ESLint Configuration: Pre-configured ESLint rules help maintain code quality and consistency.
-Official Plugins
-Two primary plugins are supported for React development with Vite:
 
-@vitejs/plugin-react
 
-Description: This plugin uses Babel to enable Fast Refresh, a feature that allows React components to be updated in real-time without losing their state.
-Features:
-Fast Refresh: Enhances the development experience by preserving component state between updates.
-Babel Integration: Leverages Babel for a wide range of JavaScript transformations and features.
-@vitejs/plugin-react-swc
+Route Optimization: Recommends the quickest or most relevant routes to save time and avoid traffic jams and road closures.
+Customize Itineraries: Creates personalized itineraries based on tourist interests (adventure, historical, or natural) to ensure visits to the most relevant locations.
+Real-Time GPS and Maps: Provides built-in GPS for seamless navigation without traditional maps or guides.
+Self-Guided Tours: Allows tourists to explore at their own pace, offering flexibility with timing and stops.
+Last-Minute Changes: Enables users to adjust their route or destination on the go without relying on group tours or rigid schedules.
+Sustainable Tourism Encouragement: Directs travelers to less crowded, lesser-known destinations to promote environmentally friendly travel.
+nown destinations to reduce pressure on popular spots.
 
-Description: This plugin uses SWC for Fast Refresh, an alternative to Babel that provides faster compilation times.
-Features:
-Fast Refresh: Offers similar state-preserving updates as the Babel plugin.
-SWC Integration: Provides a faster and more efficient JavaScript compiler compared to Babel.
+
+Installation and Setup
+
+Clone the Repository:
+
+bash:
+
+git clone https://github.com/felixop7/codewave_VoyAIger-Nepal
+cd voyAIger
+
+Open index.html in your web browser.
+
+Set Up Google Maps API:
+
+Replace YOUR_GOOGLE_MAPS_API_KEY in index.html with your actual Google Maps API key.
+Usage
+Upload Your CSV File:
+
+Use the file input on the web page to upload a CSV file containing your travel destinations.
+Customize Your Experience:
+
+Set your budget and preferences in the script (modify directly in the code if needed).
+View Your Optimized Route:
+
+The application will display the optimal route on Google Maps based on your input data.
+Contributing
+Contributions are welcome! Please submit a pull request or open an issue on GitHub if you have suggestions or improvements.
+
