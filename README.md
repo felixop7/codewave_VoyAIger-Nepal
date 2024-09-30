@@ -18,3 +18,4 @@ voyAIger is a digital travel companion designed to enhance your travel experienc
 - **Self-Guided Tours**: Allows tourists to explore at their own pace, offering flexibility with timing and stops.
 - **Last-Minute Changes**: Enables users to adjust their route or destination on the go without relying on group tours or rigid schedules.
 - **Sustainable Tourism Encouragement**: Directs travelers to less crowded, lesser-known destinations to promote environmentally friendly travel.
+Thank you.
